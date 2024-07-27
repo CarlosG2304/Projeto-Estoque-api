@@ -1,0 +1,21 @@
+{
+  "name": "projeto-estoque-api",
+  "version": "1.0.0",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "knex": "^3.1.0",
+    "os": "^0.1.2",
+    "pdfmake": "^0.2.10",
+    "pg": "^8.12.0"
+  }
+}
